@@ -1,0 +1,14 @@
+/home/sigmoid/Desktop/Assignemts/Assignment 6/bin/Debug/net8.0/Assignment 6
+/home/sigmoid/Desktop/Assignemts/Assignment 6/bin/Debug/net8.0/Assignment 6.deps.json
+/home/sigmoid/Desktop/Assignemts/Assignment 6/bin/Debug/net8.0/Assignment 6.runtimeconfig.json
+/home/sigmoid/Desktop/Assignemts/Assignment 6/bin/Debug/net8.0/Assignment 6.dll
+/home/sigmoid/Desktop/Assignemts/Assignment 6/bin/Debug/net8.0/Assignment 6.pdb
+/home/sigmoid/Desktop/Assignemts/Assignment 6/obj/Debug/net8.0/Assignment 6.GeneratedMSBuildEditorConfig.editorconfig
+/home/sigmoid/Desktop/Assignemts/Assignment 6/obj/Debug/net8.0/Assignment 6.AssemblyInfoInputs.cache
+/home/sigmoid/Desktop/Assignemts/Assignment 6/obj/Debug/net8.0/Assignment 6.AssemblyInfo.cs
+/home/sigmoid/Desktop/Assignemts/Assignment 6/obj/Debug/net8.0/Assignment 6.csproj.CoreCompileInputs.cache
+/home/sigmoid/Desktop/Assignemts/Assignment 6/obj/Debug/net8.0/Assignment 6.dll
+/home/sigmoid/Desktop/Assignemts/Assignment 6/obj/Debug/net8.0/refint/Assignment 6.dll
+/home/sigmoid/Desktop/Assignemts/Assignment 6/obj/Debug/net8.0/Assignment 6.pdb
+/home/sigmoid/Desktop/Assignemts/Assignment 6/obj/Debug/net8.0/Assignment 6.genruntimeconfig.cache
+/home/sigmoid/Desktop/Assignemts/Assignment 6/obj/Debug/net8.0/ref/Assignment 6.dll
